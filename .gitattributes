@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ensure mvnw uses LF line endings
+/mvnw text eol=lf
+
+# Ensure .cmd files use CRLF line endings
+*.cmd text eol=crlf
