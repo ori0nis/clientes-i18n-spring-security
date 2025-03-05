@@ -5,7 +5,7 @@ Sistema de Clientes is a simple management system where you can add, modify or d
 This project is my first contact with:
 
 - Basic Spring Security authentication
-- Internationalization via .properties files
+- Internationalization via ```.properties``` files
 
 I chose Thymeleaf as the frontend technology to solidify my familiarity with it and to practice working within an integral Java/IntelliJ-based environment before moving on to Angular and React. 
 
